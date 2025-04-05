@@ -42,7 +42,9 @@ A modern and practical `tmux` configuration tailored for **Ubuntu + oh-my-zsh** 
 sudo apt update
 sudo apt install tmux xclip zsh
 
+```
 ## 🖥️ 可选配置：自动进入 tmux（推荐）
+
 在你的 ~/.zshrc 文件末尾添加以下内容：
 
 ```
